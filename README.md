@@ -278,7 +278,10 @@ This course is inspired by numerous other courses and colleagues, especially:
 
 ## Schedule
 
-### January 27 (Week 1)
+### January 29 (Week 1)
+- Class Cancled for Snow :(
+
+### February 5 (Week 2)
 
 - Course introduction
   - Why data science?
@@ -295,34 +298,29 @@ This course is inspired by numerous other courses and colleagues, especially:
     - Modular design/encapsulation
   - Incremental development
   - Pseudocode
-- Intro to Python
-  - Why Python?
-  - Variables
-  - Syntax vs. style
-  - Basic data types
-  - Conditions and loops
-  - Errors and debugging
-- Version control and code sharing
-  - Submitting exercises with GitHub
-- Reading Seminar
-  - Somers, J. (2023). Begin End: A coder on the waning days of the craft. _New Yorker_, 99(38), 14-18. ([Direct Link](https://www.newyorker.com/magazine/2023/11/20/a-coder-considers-the-waning-days-of-the-craft)) ([UMD Link](https://web-p-ebscohost-com.proxy-um.researchport.umd.edu/ehost/detail/detail?vid=7&sid=acd05f73-fc24-46b8-84dd-909174c20503%40redis&bdata=JnNpdGU9ZWhvc3QtbGl2ZQ%3d%3d#AN=173542209&db=ulh))
-
-### February 3 (Week 2)
-
-- Development environment
-  - Conda
-  - Jupyter Lab
-- More programming fundamentals
   - Logical flow
   - Functions
   - Building and troubleshooting
     - Documentation
     - Googling
     - Generative AI
+- Intro to Python
+  - Why Python?
+  - Variables
+  - Syntax vs. style
+  - Basic data types
+  - Conditions and loops
+- Version control and code sharing
+  - Submitting exercises with GitHub
+- Development environment
+  - Conda
+  - VS Code
+  
 - Reading seminar
+  - Somers, J. (2023). Begin End: A coder on the waning days of the craft. _New Yorker_, 99(38), 14-18. ([Direct Link](https://www.newyorker.com/magazine/2023/11/20/a-coder-considers-the-waning-days-of-the-craft)) ([UMD Link](https://web-p-ebscohost-com.proxy-um.researchport.umd.edu/ehost/detail/detail?vid=7&sid=acd05f73-fc24-46b8-84dd-909174c20503%40redis&bdata=JnNpdGU9ZWhvc3QtbGl2ZQ%3d%3d#AN=173542209&db=ulh))
   - Chapter 1: “Uneven Innovation: The Evolution of the Urban Technology Project” (pp. 1–30) Clark, J. (2020). _Uneven Innovation_… ([UMD Link](https://ebookcentral.proquest.com/lib/umdcp/reader.action?docID=5763883))
 
-### February 10 (Week 3)
+### February 12 (Week 3)
 
 - Tabular Analysis
   - Table structure
@@ -337,7 +335,7 @@ This course is inspired by numerous other courses and colleagues, especially:
 - Reading seminar
   - Wilson, G., Aruliah, D. A., Brown, C. T., Hong, N. P. C., Davis, M., Guy, R. T., Haddock, S. H. D., Huff, K. D., Mitchell, I. M., Plumbley, M. D., Waugh, B., White, E. P., & Wilson, P. (2014). Best Practices for Scientific Computing. _PLOS Biology_, _12_(1), e1001745. <https://doi.org/10.1371/journal.pbio.1001745>
 
-### February 17 (Week 4)
+### February 19 (Week 4)
 
 - Modular programming and generalizability
   - Writing and importing modules
@@ -346,7 +344,7 @@ This course is inspired by numerous other courses and colleagues, especially:
 - Reading seminar
   - Kitchin, R. (2014). The real-time city? Big data and smart urbanism. _GeoJournal_, _79_(1), 1–14. <https://doi.org/10.1007/s10708-013-9516-8>
 
-### February 24 (Week 5)
+### February 26 (Week 5)
 
 - Accessing and wrangling data
   - APIs
@@ -357,7 +355,7 @@ This course is inspired by numerous other courses and colleagues, especially:
   - Chapter 3: “Smart Cities as Emerging Markets” (pp. 57–94)  
         Clark, J. (2020). _Uneven Innovation_… ([UMD Link](https://ebookcentral.proquest.com/lib/umdcp/reader.action?docID=5763883))
 
-### March 3 (Week 6)
+### March 5 (Week 6)
 
 - Data visualization
   - Principles of graphic communication
@@ -368,7 +366,7 @@ This course is inspired by numerous other courses and colleagues, especially:
   - Introduction: "The Pointillistic City"
         O'Brien, D. T. (2025). _The Pointillistic City_ ([Link](https://direct.mit.edu/books/oa-monograph/5893/chapter/5292757/Introduction-The-Pointillistic-City))
 
-### March 10 (Week 7)
+### March 12 (Week 7)
 
 - Geospatial data
   - Points, linestrings, and polygons
@@ -381,21 +379,21 @@ This course is inspired by numerous other courses and colleagues, especially:
 - Reading seminar
   - Peng, Q., Knaap, G., & Finio, N. (2023). Do Multifamily unit Rents Increase in Response to Light Rail in the Pre-service Period? _International Regional Science Review_, 01600176231162563. <https://doi.org/10.1177/01600176231162563>
 
-### March 17 (Spring Break)
+### March 19 (Spring Break)
 
 - Spring Break
 
-### March 24 (Week 8)
+### March 26 (Week 8)
 
 - Final Project Proposal Workshop
 
-### March 31 (Week 9)
+### April 2 (Week 9)
 
 - Network analysis
 - Reading seminar
   - Pereira, R. H. M. (2019). Future accessibility impacts of transport policy scenarios: Equity and sensitivity to travel time thresholds for Bus Rapid Transit expansion in Rio de Janeiro. _Journal of Transport Geography_, _74_, 321–332. <https://doi.org/10.1016/j.jtrangeo.2018.12.005>
 
-### April 7 (Week 10)
+### April 9 (Week 10)
 
 - Spatial visualization
   - Map design fundamentals
@@ -405,14 +403,14 @@ This course is inspired by numerous other courses and colleagues, especially:
 - Reading seminar
   - Hatch, M. E., Raymond, E. L., Teresa, B. F., & Howell, K. (2023). A data feminist approach to urban data practice: Tenant power through eviction data. _Journal of Urban Affairs_, _0_(0), 1–20. <https://doi.org/10.1080/07352166.2023.2262629>
 
-### April 14 (Week 11)
+### April 16 (Week 11)
 
 - Dashboards
 - Reading seminar
   - \[Chapter 7: “Smart Cities as the New Uneven Development” (pp. 181–200)\]  
         Clark, J. (2020). _Uneven Innovation_… ([UMD Link](https://ebookcentral.proquest.com/lib/umdcp/reader.action?docID=5763883))
 
-### April 21 (Week 12)
+### April 23 (Week 12)
 
 - Machine learning
   - Supervised and unsupervised learning
@@ -420,17 +418,17 @@ This course is inspired by numerous other courses and colleagues, especially:
 - Reading seminar
   - Kandt, J., & Batty, M. (2021). Smart cities, big data and urban policy: Towards urban analytics for the long run. _Cities_, _109_, 102992. <https://doi.org/10.1016/j.cities.2020.102992> 
 
-### April 28 (Week 13)
+### April 30 (Week 13)
 
 - \[lab space held for a student-requested topic\]
 - Code Review Workshop
 - Reading seminar
   - Goodspeed, R. (2022). Leveraging the promise of smart cities to advance smart growth. In _Handbook on Smart Growth_ (pp. 307–322). Edward Elgar Publishing. <https://www.elgaronline.com/edcollchap/book/9781789904697/book-part-9781789904697-31.xml>
 
-### May 5 (Week 14)
+### May 7 (Week 14)
 
 - Final project presentations
 
-### May 12 (Week 15)
+### May 14 (Week 15)
 
 - Final project due
