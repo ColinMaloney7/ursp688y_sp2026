@@ -4,7 +4,7 @@ As a workaround, we'll use an add-on app called GitNotebooks, which renders note
 
 To do a code review with GitNotebooks go to:
 
-[https://app.gitnotebooks.com/ncsg/ursp688y_sp2025/pulls](https://app.gitnotebooks.com/ncsg/ursp688y_sp2025/pulls)
+[https://app.gitnotebooks.com/ncsg/ursp688y_sp2026/pulls](https://app.gitnotebooks.com/ncsg/ursp688y_sp2026/pulls)
 
 Here's a [YouTube video showing the process](https://youtu.be/NEKpoLqAKLA?t=35) (you can ignore the first 35 seconds).
 

@@ -5,11 +5,11 @@ It looks complicated, and there are a few places where the details matter. But o
 These instructions assume that you have already made a GitHub account and installed GitHub Desktop on your computer.
 
 #### Part 0: Fork the course repo at GitHub.com (only the first time)
-0. Fork the [`ncsg/ursp688y_sp2025`](https://github.com/ncsg/ursp688y_sp2025) repo to your own account at GitHub.com.
+0. Fork the [`ncsg/ursp688y_sp2026`](https://github.com/ncsg/ursp688y_sp2026) repo to your own account at GitHub.com.
 
 #### Part 1: Clone your fork in GitHub Desktop (only the first time)
 1. Go to File -> Clone Repository
-2. Click on your fork of the repository in the GitHub.com list (`yourname/ursp688y_sp2025`)
+2. Click on your fork of the repository in the GitHub.com list (`yourname/ursp688y_sp2026`)
 3. Select "To contribute to the parent project" in the dialog about you're planning to use this fork.
 
 #### Part 2: Fetch, edit, commit, and push your fork
